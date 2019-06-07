@@ -1,6 +1,7 @@
 {
   "name": "calculator",
   "version": "0.1.0",
+  "homepage": "https://AprilW048.github.ip/calculator",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
